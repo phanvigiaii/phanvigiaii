@@ -1,4 +1,6 @@
-### Hi there, I'm Phan Vi Giai - an ungraduated student from HCMUS 🏫	
+### Hi there, I'm Phan Vi Giai - an ungraduated student from HCMUS  <img src="./icons/hcmus.png" alt="drawing" width="35"/>
+
+
 ## I'm a Student, Developer, and Teacher!!
 
 -   🌱 I’m currently learning everything
