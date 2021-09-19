@@ -28,5 +28,5 @@
 
 ---
 
-![Giai Vi's GitHub stats](https://github-readme-stats.vercel.app/api?username=phanvigiaii&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phanvigiaii&layout=compact&theme=radical)
+![Giai Vi's GitHub stats](https://github-readme-stats.vercel.app/api?username=owfdataboy&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=owfdataboy&layout=compact&theme=radical)
