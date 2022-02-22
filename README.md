@@ -5,7 +5,7 @@
 
 -   🌱 I’m currently learning Data Engineer, specialize in Big Data Technology
 -   👯 I’m trying my best to become a professional creative developer
--   🥅 2021 Goals: Learning cloud computing and do more Big Data projects
+-   🥅 2022 Goals: Learning cloud computing and do more Big Data projects
 -   ⚡ Fun fact: I love to play football and walking
 
 ## Contact for work
