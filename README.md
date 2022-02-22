@@ -10,7 +10,7 @@
 
 ## Contact for work
 
-This is my resume: [PhanViGiai-DataEngineer-Resume](https://drive.google.com/file/d/1GRJ0RjpLdCpuE1YSQGpYpMdfcC56jQii/view?usp=sharing)
+This is my resume (up-to-date): [PhanViGiai-DataEngineer-Resume](https://drive.google.com/file/d/1GRJ0RjpLdCpuE1YSQGpYpMdfcC56jQii/view?usp=sharing)
 
 ## Languages and Tools:
 <img align="left" alt="Python" width="26px" src="https://github.com/hussainweb/hussainweb/blob/main/icons/python.png" />
