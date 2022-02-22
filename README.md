@@ -1,14 +1,18 @@
-### Hi there, I'm Phan Vi Giai - an ungraduated student from HCMUS  <img src="./icons/hcmus.png" alt="drawing" width="35"/>
+# Hi there, I'm Phan Vi Giai - a third year student from FIT-HCMUS  <img src="./icons/hcmus.png" alt="drawing" width="35"/>
 
 
-## I'm a Student, Developer, and Teacher!!
+## I'm a Student, Developer, and Teacher !!
 
--   🌱 I’m currently learning everything
--   👯 I’m trying my best to become a professional creative developer 🤣
--   🥅 2021 Goals: Contribute more to Open Source projects
+-   🌱 I’m currently learning Data Engineer, specialize in Big Data Technology
+-   👯 I’m trying my best to become a professional creative developer
+-   🥅 2021 Goals: Learning cloud computing and do more Big Data projects
 -   ⚡ Fun fact: I love to play football and walking
 
-### Languages and Tools:
+## Contact for work
+
+This is my resume: [PhanViGiai-DataEngineer-Resume](https://drive.google.com/file/d/1GRJ0RjpLdCpuE1YSQGpYpMdfcC56jQii/view?usp=sharing)
+
+## Languages and Tools:
 <img align="left" alt="Python" width="26px" src="https://github.com/hussainweb/hussainweb/blob/main/icons/python.png" />
 <img align="left" alt="Kafka" width="26px" src="https://github.com/Thomas-George-T/Thomas-George-T/blob/master/assets/kafka.svg" />
 <img align="left" alt="Hadoop" width="26px" src="https://github.com/Thomas-George-T/Thomas-George-T/blob/master/assets/hadoop.svg" />
