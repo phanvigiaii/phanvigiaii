@@ -7,9 +7,7 @@
 
 ## Contact for work
 
-Phan Vi Giai (Mr.) 
-
-Hotline: +84 938 078 483    
+Phan Vi Giai (Mr.)    
 
 Email: phanvigiaii@gmail.com
 
