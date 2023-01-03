@@ -11,7 +11,7 @@ Phan Vi Giai (Mr.)
 
 Email: phanvigiaii@gmail.com
 
-Resume (up-to-date): [PhanViGiai Resume](https://drive.google.com/file/d/1GRJ0RjpLdCpuE1YSQGpYpMdfcC56jQii/view?usp=sharing)
+<!-- Resume (up-to-date): [PhanViGiai Resume](https://drive.google.com/file/d/1GRJ0RjpLdCpuE1YSQGpYpMdfcC56jQii/view?usp=sharing) -->
 
 <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/51998435" alt="drawing" width=400/><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/55183215" alt="drawing" width=400/>
 
