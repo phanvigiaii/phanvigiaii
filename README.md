@@ -1,5 +1,4 @@
-# Hi there, I'm Phan Vi Giai - from Ho Chi Minh University of Science  <img src="./icons/hcmus.png" alt="drawing" width="35"/>
-
+# Hi there, I'm Phan Vi Giai
 
 ## I'm a Basic Developer
 
