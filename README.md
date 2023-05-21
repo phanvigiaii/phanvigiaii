@@ -6,16 +6,23 @@
 
 ## Contact for work
 
-Phan Vi Giai (Mr.)    
+<a href="https://www.linkedin.com/in/giaiphan/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@6.7.0/icons/linkedin.svg" alt="zaivi" height="20" width="30" /> Phan Vi Giai (Mr.) </a> 
 
-Email: phanvigiaii@gmail.com
-
-Linkedin: [Giai Phan](https://www.linkedin.com/in/giaiphan/)
-
-<!-- <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/51998435" alt="drawing" width=400/><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/55183215" alt="drawing" width=400/> -->
+<div style="display: flex; flex-wrap: wrap">
+  <a href="https://googlecloudcertified.credential.net/profile/ea5f1cab857ab2795c66eb2304a4fe2aca7c4119?name=giai%20phan">
+  <img style="width: 32%" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/51998435" />
+  <img style="width: 32%" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/55183215" />
+  <img style="width: 32%" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/63321743" />
+  </a>
+</div>
 
 *Professional Certifications list: [link](https://googlecloudcertified.credential.net/profile/ea5f1cab857ab2795c66eb2304a4fe2aca7c4119?name=giai%20phan)*
-## Work tracking
 
-![Giai Phan's GitHub stats](https://github-readme-stats.vercel.app/api?username=zaivi&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zaivi&layout=compact&theme=radical)
+### Coding Stats
+
+<div style="display: flex; flex-wrap: wrap">
+  <a href="https://github.com/zaivi">
+  <img style="width: 40%" src="https://github-readme-stats.vercel.app/api?username=zaivi&show_icons=true&theme=vue&hide_border=true&custom_title=@zaivi" />
+  <img style="width: 30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaivi&show_icons=true&theme=vue&hide_border=true&&layout=compact" />
+  </a>
+</div>
