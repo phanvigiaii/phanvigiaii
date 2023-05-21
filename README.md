@@ -18,7 +18,7 @@
 
 *Professional Certifications list: [link](https://googlecloudcertified.credential.net/profile/ea5f1cab857ab2795c66eb2304a4fe2aca7c4119?name=giai%20phan)*
 
-### Coding Stats
+## Coding Stats
 
 <div style="display: flex; flex-wrap: wrap">
   <a href="https://github.com/zaivi">
