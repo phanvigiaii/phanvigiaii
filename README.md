@@ -23,6 +23,7 @@
 <div style="display: flex; flex-wrap: wrap">
   <a href="https://github.com/zaivi">
   <img style="width: 40%" src="https://github-readme-stats.vercel.app/api?username=zaivi&show_icons=true&theme=vue&hide_border=true&custom_title=@zaivi" />
-  <img style="width: 30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaivi&show_icons=true&theme=vue&hide_border=true&&layout=compact" />
+  <img style="width: 23%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaivi&show_icons=true&theme=vue&hide_border=true&&layout=compact&&langs_count=10" />
+<!--    <img style="width: 50%" src="(https://github-readme-stats.vercel.app/api/wakatime?username=zaivi" /> -->
   </a>
 </div>
