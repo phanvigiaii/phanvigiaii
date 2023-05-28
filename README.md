@@ -1,8 +1,6 @@
-# Hi there !
+# Hi there, I'm Giai !
 
-## I'm a Basic Developer
-
-🌱 I’m working and learning Cloud Data Engineer, specialize in Big Data Technology on Google Cloud Platform (GCP)
+*I’m learning and working Cloud Data Engineer, specialize in Big Data Technology on Google Cloud Platform!*
 
 ## Contact for work
 
