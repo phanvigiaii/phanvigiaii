@@ -9,14 +9,22 @@
 ## Professional Skills
 
 <div style="display: flex; flex-wrap: wrap">
-  <a href="https://googlecloudcertified.credential.net/profile/ea5f1cab857ab2795c66eb2304a4fe2aca7c4119?name=giai%20phan">
+  <a href="https://www.credential.net/profile/giaiphanvi/wallet">
   <img style="width: 32%" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/51998435" />
   <img style="width: 32%" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/55183215" />
   <img style="width: 32%" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/63321743" />
   </a>
 </div>
 
-*Professional Certifications list: [link](https://googlecloudcertified.credential.net/profile/ea5f1cab857ab2795c66eb2304a4fe2aca7c4119?name=giai%20phan)*
+<div style="display: flex; flex-wrap: wrap">
+  <a href="https://www.credential.net/profile/giaiphanvi/wallet">
+  <img style="width: 32%" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/67456654" />
+  <img style="width: 32%" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/96583695" />
+  <img style="width: 32%" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/98722594" />
+  </a>
+</div>
+
+*Professional Certifications list: [link](https://www.credential.net/profile/giaiphanvi/wallet)*
 
 ### 💻 Languages, Frameworks, Tools
 
